@@ -7,7 +7,7 @@ This repository includes an assignment assigned by <a href="https://github.com/l
 3. Classification using Neural Networks
 4. A Text Generation based on a Tensorflow Hub tutorial
 
-You can find the assignment <a href="https://drive.google.com/drive/folders/1xasANiPPPW55O7GaQCf21df-t_7w4tAC?usp=sharing">here.</a>
+You can find the assignment description <a href="https://drive.google.com/drive/folders/1xasANiPPPW55O7GaQCf21df-t_7w4tAC?usp=sharing">here.</a>
 
 ## Requirements
 
